@@ -1,0 +1,41 @@
+{
+  "name": "poc-resize-img",
+  "author": "Bastien Dronneau",
+  "description": "Redimensionnement client side",
+  "keywords": [
+    "images",
+    "javascript",
+    "resize"
+  ],
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Bastien Dronneau",
+      "email": "basti1.dr@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bdronneau/poc-resize-images.git"
+  },
+  "version": "1.0.0",
+  "devDependencies": {},
+  "homepage": "",
+  "dependencies": {
+    "dropzone": "^4.2.0",
+    "fileapi": "^2.0.17",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "jquery": "^2.1.4",
+    "materialize-css": "^0.97.1"
+  },
+  "bugs": {
+    "url": "https://github.com/bdronneau/poc-resize-images/issues"
+  },
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "scripts": {
+    "main": "gulp"
+  }
+}
